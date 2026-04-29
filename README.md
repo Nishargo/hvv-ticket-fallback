@@ -39,4 +39,4 @@ psql -f src/db/schema.sql
 npm run dev
 
 ## Live demo
-[your Railway/Render link here]
+[Railway/Render link coming soon]
