@@ -66,6 +66,6 @@ At scale errors happen constantly and silently. This is why Sentry integration c
 
 ## Further reading
 
-Designing Data Intensive Applications - Martin Kleppmann
-High Scalability blog - highscalability.com
-AWS Architecture blog - aws.amazon.com/blogs/architecture
+1. Designing Data Intensive Applications - Martin Kleppmann
+2. High Scalability blog - highscalability.com
+3. AWS Architecture blog - aws.amazon.com/blogs/architecture
